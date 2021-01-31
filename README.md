@@ -1,6 +1,7 @@
 # GymDolphin
 
-You can find a demo of this app in this GitHub Repo!
+You can find a demo of this app here!
+ https://youtu.be/QFZO4A24Bi8 
 
 Using the MERN stack
 - Mongo DB
